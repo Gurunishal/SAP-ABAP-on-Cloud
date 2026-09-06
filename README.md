@@ -1,7 +1,7 @@
 # SAP-ABAP-on-Cloud
 ABAP on Cloud 
 
-# E-commerce company wants to design a simply analytic application to track:
+# A simply analytic application to track E-commerce company's sales:
 
 - Total sales per currency
 - Total sales per customer
